@@ -6,6 +6,7 @@ try{
 Thread.sleep(60000);
 }catch(Exception e){
 System.out.print(e);
+System.out.println(e);
 }
 
 }
